@@ -1,0 +1,17 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="Exit" />
+  <action id="List-selectPreviousColumn">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="Tool_External Tools_PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+</keymap>
