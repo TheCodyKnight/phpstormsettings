@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="load-fixtures" type="PLAIN_TEXT" />
-      <mapping pattern="schema2php" type="PLAIN_TEXT" />
       <mapping pattern="test3" type="PLAIN_TEXT" />
+      <mapping pattern="load-fixtures" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="schema2php" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
-      <mapping ext="processed" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="c3xml" type="PLAIN_TEXT" />
+      <mapping ext="processed" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
